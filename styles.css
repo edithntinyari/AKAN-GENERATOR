@@ -3,21 +3,24 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
-    height:100vh;
-    color: blue;
     font-size: x-large;
     
-    /* font-size: 20px; */
+    
 }
 #form{
-    widows: 100px;
-    color:white; 
-}
-input{
-    width: 500px;
-    border-radius: 10px;
+    width: 100px;
+    color:black ; 
+    margin-left:200px;
+    
 }
 .jumbotron{
-    font-size: x-small;
-    background-color: yellow;
+    font-size: x-large;
+    background-color: grey;
+    color:black;
+}
+h1{
+    text-align: center;   
+}
+ label{
+ text-align: right;  
 }
