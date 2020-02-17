@@ -1,4 +1,5 @@
 # 
+AKAN NAME GENERATOR
 
 Akan name generator is an app that you can use to get your akan name once you put
 in your year of birth,month and date.Akan name originates from Ghana.Children are given 
@@ -10,7 +11,7 @@ cellphone:0714210397
  ## languages used
  HTML<br>
  CSS<br>
- JS<br>
+ Java script<br>
  ### Technical requirements
  Any web browser but i would recommend google chrome
  #### Content information
