@@ -6,14 +6,21 @@ in your year of birth,month and date.Akan name originates from Ghana.Children ar
 their  names depending on the day they were born.
 
 THIS PROJECT APP WAS CREATED BY EDITH NTINYARI.
-You can reach me via email:edithntinyari@gmail.com
+You can reach me via <br>email:edithntinyari@gmail.com
 cellphone:0714210397
+
  ## languages used
- HTML<br>
- CSS<br>
- Java script<br>
+
+ HTML :To come up with the structure of the page.<br>
+ CSS :To style the webpage.<br>
+ Java script :To make the web page interactive<br>
+
+SETUP INSTRUCTINS:Gitclone my live link[ https://edithntinyari.github.io/AKAN-GENERATOR/on]your terminal.
+Navigate through the Desktop to the Akan generator folder.
+
  ### Technical requirements
  Any web browser but i would recommend google chrome
+
  #### Content information
  MIT License
 Copyright (c) 2020 EDITH NTINYARI
