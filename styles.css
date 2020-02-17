@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://bit.ly/3bCQM6G);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height:100vh;
+    color: blue;
+    font-size: x-large;
+    
+    /* font-size: 20px; */
+}
+#form{
+    widows: 100px;
+    color:white; 
+}
+input{
+    width: 500px;
+    border-radius: 10px;
+}
+.jumbotron{
+    font-size: x-small;
+    background-color: yellow;
+}
